@@ -1,0 +1,25 @@
+{
+    "name": "unrealenginetheme",
+    "displayName": "UnrealEngineTheme",
+    "description": "Best theme for ue4 c++",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git"
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CubeE Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CubeE Theme-color-theme.json"
+            }
+        ]
+    }
+}
