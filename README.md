@@ -1,6 +1,6 @@
 ## Sahraei theme
 
-* This theme supports :\n
+* This theme supports : 
    --C++
    --HTML
    --CSS
@@ -10,12 +10,12 @@
 * Set it to Sahraei themes
 
 
-* **Version** : 
-   beta 1.1.1
+**Version** : 
+   beta 1.1.2
 
 
 
- * **log** :
+ **log** :
     -  CSS & JavaScript Support Added\n
     -  MenuBar Bug Fixed
     -   Colors changed
