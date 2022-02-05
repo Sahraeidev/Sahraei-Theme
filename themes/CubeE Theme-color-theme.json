@@ -359,7 +359,7 @@
 			"markup.deleted.git_gutter"
 		  ],
 		  "settings": {
-			"foreground": "#2e6ef8"
+			"foreground": "#5286f5"
 		  }
 		},
 		{
@@ -367,7 +367,6 @@
 			"entity.name.tag.html"
 		  ],
 		  "settings": {
-			"fontStyle": "bold"
 		  }
 		},
 		{

@@ -2,8 +2,8 @@
     "name": "unrealenginetheme",
     "displayName": "Sahraei Theme",
     
-    "description": "A Perfect and colorful themes",
-    "version": "1.0.9",
+    "description": "A Perfect and colorful theme",
+    "version": "1.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/Sahraeidev/VSCode-Theme"
