@@ -3,7 +3,8 @@
     "displayName": "Sahraei Theme",
     
     "description": "A Perfect and colorful theme",
-    "version": "1.1.0",
+    "icon" : "SphereLogoVSEx.png",
+    "version": "1.1.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/Sahraeidev/VSCode-Theme"
