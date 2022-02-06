@@ -285,7 +285,7 @@
 			"entity.name.tag.reference.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#b3b1b1"
 		  }
 		},
 		{
@@ -320,15 +320,16 @@
 			"string.quoted.single.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#f7b502"
 		  }
 		},
+		
 		{
 		  "scope": [
 			"keyword.control"
 		  ],
 		  "settings": {
-			"fontStyle": "bold"
+			"fontStyle": "italic"
 		  }
 		},
 		{
