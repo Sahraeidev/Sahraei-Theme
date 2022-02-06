@@ -147,7 +147,7 @@
 		"settings.textInputBackground": "#272727",
 		"settings.textInputForeground": "#FFFFFF",
 		"sideBar.background": "#1d1d1d",
-		"sideBar.border": "#0044ff50",
+		"sideBar.border": "#1d1d1d",
 		"sideBar.foreground": "#ffffff",
 		"sideBarSectionHeader.background": "#1d1d1d",
 		"sideBarSectionHeader.border": "#1d1d1d",
