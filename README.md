@@ -11,7 +11,7 @@
 
 
 **Version** : 
-   beta 1.1.4
+   beta 1.1.6
 
 
 

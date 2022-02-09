@@ -3,27 +3,27 @@
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
-		"activityBar.background": "#1d1d1d",
-		"activityBar.border": "#1d1d1d",
-		"activityBar.foreground": "#0077ff",
+		"activityBar.background": "#2c2c2c",
+		"activityBar.border": "#2c2c2c",
+		"activityBar.foreground": "#0095f8",
 		"activityBarBadge.background": "#ffffff",
-		"activityBarBadge.foreground": "#1d1d1d",
+		"activityBarBadge.foreground": "#2c2c2c",
 		"badge.background": "#ffffff30",
 		"badge.foreground": "#ffffff",
 		"breadcrumb.activeSelectionForeground": "#cacaca",
-		"breadcrumb.background": "#1d1d1d",
+		"breadcrumb.background": "#2c2c2c",
 		"breadcrumb.focusForeground": "#FFFFFF",
 		"breadcrumb.foreground": "#b8b8b8",
-		"breadcrumbPicker.background": "#1d1d1d",
+		"breadcrumbPicker.background": "#2c2c2c",
 		"button.background": "#44444450",
 		"contrastBorder": "#44444440",
-		"debugToolBar.background": "#1d1d1d",
+		"debugToolBar.background": "#2c2c2c",
 		"diffEditor.insertedTextBackground": "#FF5EEE15",
 		"diffEditor.removedTextBackground": "#FF545420",
-		"dropdown.background": "#1d1d1d",
+		"dropdown.background": "#2c2c2c",
 		"dropdown.border": "#FFFFFF10",
-		"editor.background": "#1d1d1d",
-		"editor.findMatchBackground": "#1d1d1d",
+		"editor.background": "#2c2c2c",
+		"editor.findMatchBackground": "#2c2c2c",
 		"editor.findMatchBorder": "#444444",
 		"editor.findMatchHighlightBackground": "#44444493",
 		"editor.findMatchHighlightBorder": "#FFFFFF30",
@@ -90,7 +90,7 @@
 		"list.hoverBackground": "#1d1d1d",
 		"list.hoverForeground": "#FFFFFF",
 		"list.inactiveSelectionBackground": "#0084ff36",
-		"list.inactiveSelectionForeground": "#b546ff",
+		"list.inactiveSelectionForeground": "#cd62ff",
 		"list.warningForeground": "#FF7272",
 		"listFilterWidget.background": "#27272730",
 		"listFilterWidget.noMatchesOutline": "#27272730",
@@ -213,7 +213,7 @@
 			"storage.modifier"
 		  ],
 		  "settings": {
-			"foreground": "#4fff84"
+			"foreground": "#40baf3"
 		  }
 		},
 		{
@@ -320,7 +320,7 @@
 			"string.quoted.single.scss"
 		  ],
 		  "settings": {
-			"foreground": "#f7b502"
+			"foreground": "#C9A26D"
 		  }
 		},
 		
@@ -414,7 +414,7 @@
 			"source.sass keyword.control"
 		  ],
 		  "settings": {
-			"foreground": "#00b7ff"
+			"foreground": "#c56eff"
 		  }
 		},
 		{
@@ -785,6 +785,37 @@
 		  "settings": {
 			"foreground": "#205AFF"
 		  }
-		}
+		},
+		{
+		  "scope": "string",
+		  "settings": {
+			"foreground": "#C9A26D"
+		  }
+		},
+		{
+			"scope": "comment",
+			"settings": {
+			  "foreground": "#249405"
+			}
+		  },
+		  {
+			  "scope": "entity.name.type.class",
+			  "settings": {
+				"foreground": "#279e02"
+			  }
+			},
+			{
+				"scope": "entity.name.function.call",
+				"settings": {
+				  "foreground": "#107cd4"
+				}
+			  },
+			  {
+				  "scope": "variable.other.property.cpp",
+				  "settings": {
+					"foreground": "#10d482"
+				  }
+				}
+
 	  ]
   }
