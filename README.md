@@ -1,9 +1,12 @@
 ## Sahraei theme
 
 * This theme supports : 
-   --C++
-   --HTML
-   --CSS
+   * --C++
+   * --HTML
+   * --CSS
+   * --Java Script
+   * --TypeScript
+
 **Setup**
 * Click on the manage icon 
 * Color theme
@@ -11,15 +14,15 @@
 
 
 **Version** : 
-   beta 1.1.6
+   beta 1.1.8
 
 
 
  **log** :
     -  CSS & JavaScript Support Added\n
     -  MenuBar Bug Fixed
-    -   Colors changed
-    -   Bold tags removed
+    -  Colors changed
+    -  Bold tags removed
 
 ### For more information
 * [Github repository](https://github.com/Sahraeidev/VSCode-Theme)
