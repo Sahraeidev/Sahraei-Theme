@@ -14,15 +14,12 @@
 
 
 **Version** : 
-   beta 1.1.8
+   beta 1.1.9
 
 
 
  **log** :
-    -  CSS & JavaScript Support Added\n
-    -  MenuBar Bug Fixed
-    -  Colors changed
-    -  Bold tags removed
+    -Added new colors to the vars
 
 ### For more information
 * [Github repository](https://github.com/Sahraeidev/VSCode-Theme)
