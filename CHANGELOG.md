@@ -1,2 +1,2 @@
--Comment bug fixed
--Strings bug fixed
+-New logo
+-New colors
